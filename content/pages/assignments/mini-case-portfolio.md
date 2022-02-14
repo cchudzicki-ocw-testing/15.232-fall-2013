@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
 title: Mini Case Portfolio
+type: CourseSection
 uid: e53d3d56-ab3c-0bd5-9819-a1795522c836
 ---
 

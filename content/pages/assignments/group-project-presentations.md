@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
 title: Group Project Presentations
+type: CourseSection
 uid: 3b4ca32b-96a6-bb2a-3c9b-97075fe806ef
 ---
 

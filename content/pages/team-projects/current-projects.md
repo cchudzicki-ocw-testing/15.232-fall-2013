@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Team Projects
+parent_type: CourseSection
 parent_uid: f2b0327e-f44d-38d8-da37-1fd506456195
 title: 2013 Projects
+type: CourseSection
 uid: 2690398d-1b85-2fa3-dcc5-5ab541b9e665
 ---
 

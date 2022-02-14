@@ -3,7 +3,12 @@ content_type: resource
 description: This resource contains information regarding Tricia Morente biography.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/f58da51631ffa92b7ddabbbb979ae8dc_MIT_15_232F13_11_Tric_Mor_bio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Tricia Morente biography
+type: OCWFile
 uid: f58da516-31ff-a92b-7dda-bbbb979ae8dc
 ---
