@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 HIV/AIDS: Managerial Briefing'
-type: OCWFile
 uid: 3cae347c-ba27-616b-f8cc-d047e55ce811
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Srishti Gupta and Heather Megosh biographies
-type: OCWFile
 uid: eac1bf85-d82c-d850-3964-1b51f78abb82
 ---

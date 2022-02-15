@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 DTree: Team Executive Summary'
-type: OCWFile
 uid: 4081e228-4de0-e217-27ef-db9fd8df6c2c
 ---

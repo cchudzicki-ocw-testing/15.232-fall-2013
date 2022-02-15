@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 ADDO: Team Memo'
-type: OCWFile
 uid: c4c4d163-40dd-55b0-1d86-19ab1b6d170e
 ---

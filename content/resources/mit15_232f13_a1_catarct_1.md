@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 15.232 Fall 2013 Congenital Cataracts leading to moderate or severe visual
   impairments
-type: OCWFile
 uid: 646d74d7-e91d-319a-f7d2-2c9a11a03cc1
 ---

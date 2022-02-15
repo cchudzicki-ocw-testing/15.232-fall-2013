@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Projects
 title: Team Projects
-type: CourseSection
 uid: f2b0327e-f44d-38d8-da37-1fd506456195
 ---
 

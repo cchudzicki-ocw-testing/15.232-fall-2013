@@ -12,6 +12,5 @@ parent_title: Impact
 parent_type: CourseSection
 resourcetype: Image
 title: impact_smile-train-camp.jpg
-type: OCWImage
 uid: 5e97872f-59ce-d603-18bb-27882b970ca1
 ---

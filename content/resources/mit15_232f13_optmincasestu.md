@@ -8,6 +8,5 @@ parent_title: Mini Case Portfolio
 parent_type: CourseSection
 resourcetype: Document
 title: Mini Case Study options
-type: OCWFile
 uid: 7ab9edf9-07f1-7520-69b9-81643b1af999
 ---

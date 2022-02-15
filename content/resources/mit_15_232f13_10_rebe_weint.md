@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Rebecca Weintraub biography
-type: OCWFile
 uid: c929bc87-aca6-4ea1-5e8b-18caa15423cf
 ---

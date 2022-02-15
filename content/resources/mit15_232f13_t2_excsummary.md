@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 ColaLife: Team Executive Summary'
-type: OCWFile
 uid: 9d2339c1-c01d-483e-61f3-4143a6cc4c71
 ---

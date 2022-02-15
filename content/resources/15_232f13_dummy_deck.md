@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: 15_232F13_Dummy_Deck.pptx
-type: OCWFile
 uid: 17f486b3-edd7-225e-e17f-0541c81d7bee
 ---

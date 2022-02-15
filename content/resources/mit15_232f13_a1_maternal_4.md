@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 Opportunities to Improve Maternal and Neonatal Health Care:
   Assignment 1'
-type: OCWFile
 uid: 2187a00e-1943-3eb9-6fab-7158515c1147
 ---

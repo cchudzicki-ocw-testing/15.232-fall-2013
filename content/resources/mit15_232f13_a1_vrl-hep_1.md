@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 Viral Hepatitis: The Silent Epidemic'
-type: OCWFile
 uid: a82bfdb9-4bc1-c81f-aa1f-303a1217f3f9
 ---

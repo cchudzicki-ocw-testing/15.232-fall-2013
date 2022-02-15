@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Blank care delivery value chain
-type: OCWFile
 uid: e4559231-e1d2-c710-c097-97be002c5219
 ---

@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 ColaLife: Team Memo'
-type: OCWFile
 uid: acfb82a1-1678-18fe-dbc0-996e55dcdc6f
 ---

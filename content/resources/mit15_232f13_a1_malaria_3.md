@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 Malaria: Management Briefing'
-type: OCWFile
 uid: 796d791a-b945-7813-b66a-1c01b2671ce9
 ---

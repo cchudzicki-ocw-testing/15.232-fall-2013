@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 SughaVazhvu: Team Presentation Deck'
-type: OCWFile
 uid: f8309232-d0e4-6c3a-f0fc-49c3b43428c2
 ---

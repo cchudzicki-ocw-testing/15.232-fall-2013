@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 DTree: Team Memo'
-type: OCWFile
 uid: d139d8f6-cae1-6636-e703-d5522f94da69
 ---

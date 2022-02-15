@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 5: Strategy'
-type: OCWFile
 uid: b67fdb49-f078-8227-0d3e-76bc6dd79c06
 ---

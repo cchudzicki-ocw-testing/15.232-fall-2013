@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 HealthBuilders: Team Executive Summary'
-type: OCWFile
 uid: 34d5f2a1-9c44-c747-a0ce-b5be6a248b6e
 ---

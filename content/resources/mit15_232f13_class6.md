@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 6: Public-private collaboration'
-type: OCWFile
 uid: c5e093a1-d780-d181-0ee5-4408bf44ea4d
 ---

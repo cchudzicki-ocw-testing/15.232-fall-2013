@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 HealthBuilders: Team Memo'
-type: OCWFile
 uid: 696aec4c-b506-f9e2-86a0-57cc3ed1ef8d
 ---

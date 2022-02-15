@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Ratan Tata biography
-type: OCWFile
 uid: 42fa61a6-edef-54a8-5303-c14d78c653ba
 ---

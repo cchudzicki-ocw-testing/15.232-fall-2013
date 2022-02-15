@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 ColaLife: Team Presentation Deck'
-type: OCWFile
 uid: cee8c5c4-7502-c42d-666c-94f04e3b20e1
 ---

@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 LifeNet: Team Memo'
-type: OCWFile
 uid: 53a3228c-7197-2baa-7fc7-533738b7e242
 ---

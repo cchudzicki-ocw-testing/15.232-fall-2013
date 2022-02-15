@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 ADDO: Team Executive Summary'
-type: OCWFile
 uid: 4a91ddc8-0a40-5611-99dc-7da4e5795868
 ---

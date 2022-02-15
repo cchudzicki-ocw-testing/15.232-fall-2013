@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 HIV/AIDS: A Global Health Perspective'
-type: OCWFile
 uid: 8ac561f5-42d1-418d-c8b8-16526af5520d
 ---

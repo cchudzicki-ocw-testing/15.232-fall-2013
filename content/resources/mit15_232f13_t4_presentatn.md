@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 HealthBuilders: Team Presentation Deck'
-type: OCWFile
 uid: 5f75938b-1b25-a7de-25a0-82a3e49a9905
 ---

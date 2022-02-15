@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: 15_232F13_5_blank_ca_de_va.pptx
-type: OCWFile
 uid: 43285169-2fae-e984-5adb-e6e86ad26181
 ---

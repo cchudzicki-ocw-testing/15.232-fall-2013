@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 Malaria: Invest in the Future, Defeat Malaria'
-type: OCWFile
 uid: 9ca2cabd-004d-390f-12c4-164569ac0bd2
 ---

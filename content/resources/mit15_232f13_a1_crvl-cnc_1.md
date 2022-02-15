@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 Cervical Cancer: Why is the most preventable cancer still
   a burden?'
-type: OCWFile
 uid: 9baa7ca8-8bf1-3ce6-b52b-bcb322504735
 ---

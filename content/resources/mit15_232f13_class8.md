@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 8: Franchise models'
-type: OCWFile
 uid: 4e39fdc2-65dc-3a0e-0452-1e205f0b24c4
 ---

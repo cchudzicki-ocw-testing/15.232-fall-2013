@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 DTree: Team Presentation Deck'
-type: OCWFile
 uid: 0f71bf24-ad14-224f-5f65-c168e2b6debf
 ---

@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
 title: Teaching Systems Thinking and Value Chains
-type: CourseSection
 uid: 3296b023-4342-68b4-2cad-c8eab5a26f9f
 ---
 

@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 Malaria: Vector Borne Illness Impeding Growth and Development
   of Countries and Populations at Risk'
-type: OCWFile
 uid: f7cac7fb-76c9-0c39-cefc-b3d1c0a297ed
 ---

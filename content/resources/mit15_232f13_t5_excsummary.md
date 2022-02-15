@@ -10,6 +10,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 SughaVazhvu: Team Executive Summary'
-type: OCWFile
 uid: 9f9b3ea2-b888-783d-3edf-4c26d873de77
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 7: Systems thinking'
-type: OCWFile
 uid: 7909f0e0-5b6b-476a-44ff-3be887f1142a
 ---

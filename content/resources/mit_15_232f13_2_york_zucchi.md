@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: York Zucchi biography
-type: OCWFile
 uid: 61ee76a7-754c-ee20-cdae-307d6640f559
 ---

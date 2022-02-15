@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 3: Operational efficiency and scaling up'
-type: OCWFile
 uid: f676b474-847e-f7a3-cdbf-2e3e3aaa0bf3
 ---

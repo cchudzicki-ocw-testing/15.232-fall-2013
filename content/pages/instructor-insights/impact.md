@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
 title: Impact
-type: CourseSection
 uid: 771d2998-6349-db27-afe7-73ca9183a26e
 ---
 

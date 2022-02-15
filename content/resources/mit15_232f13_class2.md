@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 2: Cooperative approaches'
-type: OCWFile
 uid: 2039e1e3-769f-9f9d-275f-0d57465cee8b
 ---

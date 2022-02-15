@@ -9,6 +9,5 @@ parent_title: Team Projects
 parent_type: CourseSection
 resourcetype: Document
 title: '15.232 Fall 2013 SughaVazhvu: Team Memo'
-type: OCWFile
 uid: 173b7c16-1a8b-4c0d-1ebb-c6172891b1e1
 ---

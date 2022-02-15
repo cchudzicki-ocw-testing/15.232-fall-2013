@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 1: Scale and business models'
-type: OCWFile
 uid: c4692ac8-ae95-7e2f-9b70-c0028ed707bd
 ---

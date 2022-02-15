@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 4: Business thinking'
-type: OCWFile
 uid: 5ff68066-dd86-efd4-4749-85875dc1999f
 ---
