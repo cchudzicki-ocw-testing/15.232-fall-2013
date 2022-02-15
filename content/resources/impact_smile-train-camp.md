@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: A team of doctors wearing scrubs and masks operate on a small child.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Impact
 parent_type: CourseSection
 resourcetype: Image
