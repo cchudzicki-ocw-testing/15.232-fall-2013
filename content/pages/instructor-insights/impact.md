@@ -10,7 +10,7 @@ title: Impact
 uid: 771d2998-6349-db27-afe7-73ca9183a26e
 ---
 
-![A team of doctors wearing scrubs and masks operate on a small child.]({{< resource_file 5e97872f-59ce-d603-18bb-27882b970ca1 >}})  
+{{< resource 5e97872f-59ce-d603-18bb-27882b970ca1 >}}  
 
 Smile Train's Cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of [Sadasiv Swain](https://www.flickr.com/photos/sswain_1999/9516878236) via Flickr. License: CC-BY.)
 
@@ -30,7 +30,7 @@ I love the idea of a classroom course generating a stream of content that others
 
 {{< quote "...how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education..." " " >}}
 
-If you look at the [list of projects]({{< baseurl >}}/pages/team-projects) covered in _15.232_, and add that to the 70 projects in _GlobalHealth Lab_, there is a huge depth of content. I feel very strongly that thinking about how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education, especially in professional education.
+If you look at the {{< resource_link f2b0327e-f44d-38d8-da37-1fd506456195 "list of projects" >}} covered in _15.232_, and add that to the 70 projects in _GlobalHealth Lab_, there is a huge depth of content. I feel very strongly that thinking about how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education, especially in professional education.
 
 There has been a lot of interest in that dummy deck because it lays out the basics for how you should describe a business model. I'm realizing that doesn't really exist anywhere, so that's a very sought-after thing. People who have start-ups or who are entering a chosen field of work have no guide for answering these questions that are inherent in developing a viable approach.
 

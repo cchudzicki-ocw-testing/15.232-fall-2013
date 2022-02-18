@@ -13,7 +13,7 @@ uid: 3296b023-4342-68b4-2cad-c8eab5a26f9f
 Applying Strategic Thinking to Analyzing Organizations
 ------------------------------------------------------
 
-![Rows of benches in a waiting room of a community clinic, women and children sit and watch television.]({{< resource_file 6aaa1524-8f10-2bdb-89c0-957257c11879 >}})  
+{{< resource 6aaa1524-8f10-2bdb-89c0-957257c11879 >}}  
 
 Shining Hope for Communities developed an innovative, community-driven model to combat inter-generational cycles of poverty and gender inequality in Nairobi’s Kibera slum. The clinic sought ways to reduce wait time and increase efficiency. (Photo of clinic waiting room, courtesy of an MIT student.)
 

@@ -36,11 +36,11 @@ Instructor Insights
 
 In the following pages, Dr. Sastry describes various aspects of how she teaches _15.232 Business Model Innovation: Global Health in Frontier Markets_.
 
-*   [Background and Inspiration for the Class]({{< baseurl >}}/pages/instructor-insights/background-and-inspiration-for-the-class)
-*   [Teaching Systems Thinking and Value Chains]({{< baseurl >}}/pages/instructor-insights/teaching-students-about-systems-thinking-and-value-chains)
-*   [Case Studies and Problem-based Learning]({{< baseurl >}}/pages/instructor-insights/case-studies-and-problem-based-learning)
-*   [Structuring Assignments and Setting Expectations]({{< baseurl >}}/pages/instructor-insights/structuring-assignments-and-setting-expectations)
-*   [Impact]({{< baseurl >}}/pages/instructor-insights/impact)
+*   {{< resource_link e6e427dc-aca8-8e23-0c62-3f20a1589c66 "Background and Inspiration for the Class" >}}
+*   {{< resource_link 3296b023-4342-68b4-2cad-c8eab5a26f9f "Teaching Systems Thinking and Value Chains" >}}
+*   {{< resource_link c8bbcf10-8403-0014-56fc-627f44af763b "Case Studies and Problem-based Learning" >}}
+*   {{< resource_link 781d7232-9c8d-c266-6f39-a27702a0b1f7 "Structuring Assignments and Setting Expectations" >}}
+*   {{< resource_link 771d2998-6349-db27-afe7-73ca9183a26e "Impact" >}}
 
 Curriculum Information
 ----------------------
@@ -71,7 +71,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![On average, 40 students take this course each time it is offered.]({{< resource_file 4b2503ff-d230-66d5-9b1e-b80d5109ced5 >}})
+{{< resource 4b2503ff-d230-66d5-9b1e-b80d5109ced5 >}}
 
 ### Breakdown by Year
 
@@ -101,6 +101,6 @@ In Class
 Out of Class
 ------------
 
-*   [Readings]({{< baseurl >}}/pages/readings) in preparation for class
+*   {{< resource_link 23872b06-c554-0fea-3a9f-f1a4d06c9209 "Readings" >}} in preparation for class
 *   Team meetings
-*   [Assignments]({{< baseurl >}}/pages/assignments) and [team deliverables]({{< baseurl >}}/pages/assignments/mini-case-portfolio)
+*   {{< resource_link 9f398e8a-2392-43d7-ea09-4c39d16fd3c2 "Assignments" >}} and {{< resource_link e53d3d56-ab3c-0bd5-9819-a1795522c836 "team deliverables" >}}

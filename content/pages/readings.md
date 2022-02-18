@@ -105,7 +105,7 @@ Guest, Peter. "[Spelling Out Growth](http://online.wsj.com/news/articles/SB10001
 
 Johnson, Mark W., Clayton M. Christensen, et al. "[Reinventing Your Business Model](http://hbr.org/2008/12/reinventing-your-business-model/ar/1 )." _Harvard Business Review_, December 1, 2008.
 
-[York Zucchi biography (PDF)]({{< baseurl >}}/resources/mit_15_232f13_2_york_zucchi)
+{{< resource_link 61ee76a7-754c-ee20-cdae-307d6640f559 "York Zucchi biography (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -407,7 +407,7 @@ Milway, Katie Smith, and Amy Saxton. "[The Challenge of Organizational Learning]
 
 Seelos, Christian, and Johanna Mail. "[Innovate and Scale: A Tough Balancing Act](http://www.ssireview.org/articles/entry/innovate_and_scale_a_tough_balancing_act)." _Supplement to Stanford Social Innovation Review_, Summer 2013.
 
-[Rebecca Weintraub biography (PDF)]({{< baseurl >}}/resources/mit_15_232f13_10_rebe_weint)
+{{< resource_link c929bc87-aca6-4ea1-5e8b-18caa15423cf "Rebecca Weintraub biography (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -439,9 +439,9 @@ Govindrajan, Vijay, and Chris Trimble. "Partners in Health's Radical Model for C
 
 Onie, Rebecca, Paul Farmer, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Realigning Health with Care](http://www.ssireview.org/articles/entry/realigning_health_with_care)." _Stanford Social Innovation Review_, Summer 2012.
 
-[Tricia Morente biography (PDF)]({{< baseurl >}}/resources/mit_15_232f13_11_tric_mor_bio)
+{{< resource_link f58da516-31ff-a92b-7dda-bbbb979ae8dc "Tricia Morente biography (PDF)" >}}
 
-[Ratan Tata biography (PDF)]({{< baseurl >}}/resources/mit_15_232f13_11_bio_rat_n_tat)
+{{< resource_link 42fa61a6-edef-54a8-5303-c14d78c653ba "Ratan Tata biography (PDF)" >}}
 
 ### Optional Readings
 
@@ -471,7 +471,7 @@ Wrap-up discussion reflecting on class themes
 
 Read the executive summaries provided by each of today's presenting groups, and the guests' bios.
 
-[Biographies for class guests, Srishti Gupta and Heather Megosh (PDF)]({{< baseurl >}}/resources/mit_15_232f13_12_sri_gu_hea_me)
+{{< resource_link eac1bf85-d82c-d850-3964-1b51f78abb82 "Biographies for class guests, Srishti Gupta and Heather Megosh (PDF)" >}}
 
 
 {{< tdclose >}}

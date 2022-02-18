@@ -99,7 +99,7 @@ Maternal and neonatal health
 {{< tdopen >}}
 
 
-[Opportunities to Improve Maternal and Neonatal Health Care (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_maternal_4)
+{{< resource_link 2187a00e-1943-3eb9-6fab-7158515c1147 "Opportunities to Improve Maternal and Neonatal Health Care (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -112,9 +112,9 @@ HIV/AIDS
 {{< tdopen >}}
 
 
-[HIV/AIDS: A Global Health Perspective (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_2)
+{{< resource_link 8ac561f5-42d1-418d-c8b8-16526af5520d "HIV/AIDS: A Global Health Perspective (PDF)" >}}
 
-[HIV/AIDS: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_3)
+{{< resource_link 3cae347c-ba27-616b-f8cc-d047e55ce811 "HIV/AIDS: Managerial Briefing (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -127,15 +127,15 @@ Tuberculosis
 {{< tdopen >}}
 
 
-[Tuberculosis: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_01)
+{{< resource_link d709bba6-d021-9850-3056-8449f0ef6ad6 "Tuberculosis: Managerial Briefing (PDF)" >}}
 
-[Tuberculosis: Biology, Burden, & Unmet Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_02)
+{{< resource_link 10f9ac52-07c8-8227-ee7c-8f334b346798 "Tuberculosis: Biology, Burden, & Unmet Needs (PDF)" >}}
 
-[Tuberculosis: Disease Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_03)
+{{< resource_link 78095c6c-0ecc-1347-1fbc-18520d8114b5 "Tuberculosis: Disease Overview (PDF)" >}}
 
-[Tuberculosis: Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_05)
+{{< resource_link 705c375a-5ce1-8f63-7a64-fda96da9c86e "Tuberculosis: Overview (PDF)" >}}
 
-[Tuberculosis: Global Health Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_09)
+{{< resource_link 51c1b34d-9c73-6ab2-b0d5-7e396d5837f9 "Tuberculosis: Global Health Needs (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -148,9 +148,9 @@ Another disease or condition
 {{< tdopen >}}
 
 
-[Atrial Fibrillation: A major global public health challenge (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_af_1)
+{{< resource_link 1597166f-cf91-75ee-04f6-51cd9bcfa539 "Atrial Fibrillation: A major global public health challenge (PDF)" >}}
 
-[Viral Hepatitis: The Silent Epidemic (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_vrl-hep_1)
+{{< resource_link a82bfdb9-4bc1-c81f-aa1f-303a1217f3f9 "Viral Hepatitis: The Silent Epidemic (PDF)" >}}
 
 
 {{< tdclose >}}

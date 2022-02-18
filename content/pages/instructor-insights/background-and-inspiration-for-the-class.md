@@ -28,7 +28,7 @@ All of this thinking fed into the design of _15.232_, both as a companion to _Gl
 Finding Innovative Solutions for Healthcare Delivery
 ----------------------------------------------------
 
-![Steps lead up to the entrance of a community health clinic in Kibera, a corrugated metal building painted bright blue.]({{< resource_file e37d1c74-e25c-bd61-a903-8ca091085c9f >}})  
+{{< resource e37d1c74-e25c-bd61-a903-8ca091085c9f >}}  
 
 Students in _15.232_ and _GlobalHealth Lab_ worked with Shining Hope for Communities (SHOFCO) in Kibera, the largest slum in Nairobi. SHOFCO provides free education for girls that is linked to community empowerment and poverty alleviation programs. (Photo of SHOFCO clinic entrance, courtesy of an MIT student.)
 
