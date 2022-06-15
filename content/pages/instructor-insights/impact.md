@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Comments from the course instructor on predicting outcomes, generating
+  content that is useful to the broader world, and collaborating and making connections.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
