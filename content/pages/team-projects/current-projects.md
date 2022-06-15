@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains examples of student team deliverables and learning
+  reflection memos from the Fall 2013 version of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

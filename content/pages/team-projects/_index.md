@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides examples of individual and team student deliverables
+  including the disease briefing, executive summary, slide presentation, and learning
+  memo from previous years of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

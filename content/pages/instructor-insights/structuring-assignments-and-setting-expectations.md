@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Comments from the course instructor on structuring individual and team
+  assignments, and setting expectations.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

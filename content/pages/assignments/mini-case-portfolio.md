@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "This section lists the requirements for a team assignment to analyze\
+  \ an organization\u2019s model and potential for impact, scale, and sustainability\
+  \ from financial, operational, strategic, and marketing perspectives, linking to\
+  \ themes from class discussions. "
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

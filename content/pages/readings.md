@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides a list of required and optional materials for
+  each class session, including cases, readings, and videos. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section lists the requirements for the individual managerial briefing
+  assignment, key starting points for research, and examples of student work from
+  Fall 2013.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for a group project
+  presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
