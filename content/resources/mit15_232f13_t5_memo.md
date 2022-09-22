@@ -5,6 +5,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
